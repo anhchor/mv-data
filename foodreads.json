@@ -3,11 +3,15 @@
 	"book": [
 		{
 			"book-title": "Imagined Communities: Reflections on the Origin and Spread of Nationalism",
-			"book-description": "Benedict Anderson. 1991. "
+			"book-description": "Benedict Anderson. 1991. ",
+			"book-info": "Benedict Anderson. 1991.",
+			"book-pages": "240"
 		},
 		{
 			"book-title": "On Tyranny: Twenty Lessons from the Twentieth Century",
-			"book-description": "Timothy Snyder. 2017."
+			"book-description": "Timothy Snyder. 2017.",
+			"book-info": "Timothy Snyder. 2017.",
+			"book-pages": "128"
 		}
 	]
 }
