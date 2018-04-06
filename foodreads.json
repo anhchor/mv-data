@@ -14,5 +14,28 @@
 			"book-pages": "128"
 		}
 	],
-	"category-title": "<h2>Undergrad revisited</h2>\n<p>Now without participation points!</p>"
+	"category-title": "<h2>Undergrad revisited</h2>\n<p>Now without participation points!</p>",
+	"category": [
+		{
+			"category-title": "<p>Undergrad</p>",
+			"book": [
+				{
+					"book-title": "Something",
+					"book-info": "Or another",
+					"book-pages": "212"
+				},
+				{
+					"book-title": "Else",
+					"book-info": "I lost my data",
+					"book-pages": "343"
+				}
+			]
+		},
+		{
+			"category-title": "<p>Okay</p>",
+			"book": [
+				{}
+			]
+		}
+	]
 }
