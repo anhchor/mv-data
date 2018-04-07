@@ -100,6 +100,34 @@
 					"book-pages": "289"
 				}
 			]
+		},
+		{
+			"category-intro": {
+				"category-title": "Picturesque",
+				"category-description": "The scenic route."
+			},
+			"book": [
+				{
+					"book-title": "Maus",
+					"book-info": "Art Spiegelman (1986)",
+					"book-pages": "296"
+				},
+				{
+					"book-title": "Watchmen",
+					"book-info": "Alan Moore (2005)",
+					"book-pages": "416"
+				},
+				{
+					"book-title": "Skim",
+					"book-info": "Mariko Tamaki and Jillian Tamaki (2008)",
+					"book-pages": "143"
+				},
+				{
+					"book-title": "Weapons of Mass Diplomacy",
+					"book-info": "Abel Lanzac and Christophe Blain (2014)",
+					"book-pages": "200"
+				}
+			]
 		}
 	]
 }
