@@ -20,19 +20,14 @@
 			"category-title": "<p>Undergrad</p>",
 			"book": [
 				{
-					"book-title": "Something",
-					"book-info": "Or another",
-					"book-pages": "212"
+					"book-title": "Imagined Communities: Reflections on the Origin and Spread of Nationalism",
+					"book-info": "Benedict Anderson (1991)",
+					"book-pages": "240"
 				},
 				{
-					"book-title": "Else",
-					"book-info": "I lost my data",
-					"book-pages": "343"
-				},
-				{
-					"book-title": "Book 3",
-					"book-info": "more stuff",
-					"book-pages": "599"
+					"book-title": "On Tyranny: Twenty Lessons from the Twentieth Century",
+					"book-info": "Timothy Snyder (2017)",
+					"book-pages": "128"
 				},
 				{
 					"book-title": "hiya"
@@ -45,11 +40,30 @@
 		},
 		{
 			"category-intro": {
-				"category-title": "popular reads",
-				"category-description": "hey"
+				"category-title": "Frequently Name-Dropped",
+				"category-description": "Everyone else is already reading these."
 			},
 			"book": [
-				{}
+				{
+					"book-title": "Infinite Jest",
+					"book-info": "David Foster Wallace (2005)",
+					"book-pages": "1088"
+				},
+				{
+					"book-title": "Brave New World",
+					"book-info": "Aldous Huxley (1998)",
+					"book-pages": "268"
+				},
+				{
+					"book-title": "Milk and Honey",
+					"book-info": "Rupi Kaur (2014)",
+					"book-pages": "204"
+				},
+				{
+					"book-title": "Sapiens: A Brief History of Humankind",
+					"book-info": "Yuval Noah Harari (2014)",
+					"book-pages": "443"
+				}
 			]
 		}
 	]
