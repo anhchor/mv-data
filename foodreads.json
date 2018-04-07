@@ -62,6 +62,44 @@
 					"book-pages": "443"
 				}
 			]
+		},
+		{
+			"category-intro": {
+				"category-title": "For Work and For Fun",
+				"category-description": "These would probably help your career."
+			},
+			"book": [
+				{
+					"book-title": "Designing News: Changing the World of Editorial Design and Information Graphics",
+					"book-info": "Francesco Franchi (2013)",
+					"book-pages": "224"
+				},
+				{
+					"book-title": "The Politics of Design: A (Not So) Global Manual for Visual Communication",
+					"book-info": "Ruben Pater (2016)",
+					"book-pages": "160"
+				},
+				{
+					"book-title": "Design, Form, and Chaos",
+					"book-info": "Paul Rand (1993)",
+					"book-pages": "218"
+				},
+				{
+					"book-title": "Envisioning Information",
+					"book-info": "Edward R. Tufte (1992)",
+					"book-pages": "126"
+				},
+				{
+					"book-title": "Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech",
+					"book-info": "Sara Wachter-Boettcher (2017)",
+					"book-pages": "240"
+				},
+				{
+					"book-title": "A Web for Everyone: Designing Accessible User Experiences",
+					"book-info": "Sarah Horton and Whitney Quesenbery (2013)",
+					"book-pages": "289"
+				}
+			]
 		}
 	]
 }
