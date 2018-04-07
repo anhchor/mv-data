@@ -28,14 +28,17 @@
 					"book-title": "Else",
 					"book-info": "I lost my data",
 					"book-pages": "343"
+				},
+				{
+					"book-title": "Book 3",
+					"book-info": "more stuff",
+					"book-pages": "599"
 				}
-			]
-		},
-		{
-			"category-title": "<p>Okay</p>",
-			"book": [
-				{}
-			]
+			],
+			"category-intro": {
+				"category-title": "undergrad",
+				"category-description": "or whatever"
+			}
 		}
 	]
 }
