@@ -49,11 +49,7 @@
 				"category-description": "hey"
 			},
 			"book": [
-				{
-					"book-title": "Infinite Jest",
-					"book-info": "David Foster Wallace",
-					"book-pages": "a lot"
-				}
+				{}
 			]
 		}
 	]
