@@ -16,7 +16,10 @@
 	"music": [
 		{
 			"songtitle": "Title",
-			"songArtist": "Artist Name"
+			"songArtist": "Taylor Swift",
+			"songImage": "/img/2021/01/taylor-swift_evermore.jpeg",
+			"songAlbum": "Evermore",
+			"songYear": "2020"
 		}
 	]
 }
