@@ -20,6 +20,13 @@
 			"songImage": "/img/2021/01/taylor-swift_evermore.jpeg",
 			"songAlbum": "Evermore",
 			"songYear": "2020"
+		},
+		{
+			"songtitle": "sakura",
+			"songImage": "/img/2021/01/nirgilis_sakura.jpg",
+			"songArtist": "NIRGILIS",
+			"songAlbum": "sakura (EP)",
+			"songYear": "2006"
 		}
 	]
 }
