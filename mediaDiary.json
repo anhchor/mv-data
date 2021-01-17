@@ -23,7 +23,7 @@
 		},
 		{
 			"songtitle": "sakura",
-			"songImage": "/img/2021/01/nirgilis_sakura.jpg",
+			"songImage": "https://cdn.jsdelivr.net/gh/anhchor/mv-data@1e59f9967868fd79636c721267a93e8d89b8c075/images/nirgilis_sakura.jpg",
 			"songArtist": "NIRGILIS",
 			"songAlbum": "sakura (EP)",
 			"songYear": "2006"
