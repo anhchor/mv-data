@@ -1,0 +1,22 @@
+{
+	"game": [
+		{
+			"gametitle": "Destiny 2",
+			"gamePlayDate": "Dec. 2020",
+			"gameImage": "/img/2021/01/destiny_cut-scene.jpg",
+			"gameDesc": "I've been playing a lot of Destiny 2 lately."
+		},
+		{
+			"gametitle": "Hades",
+			"gamePlayDate": "Sep. 2020",
+			"gameImage": "/img/2020/10/hades_ss_asphodel.jpg",
+			"gameDesc": "Hades is a good game."
+		}
+	],
+	"music": [
+		{
+			"songtitle": "Title",
+			"songArtist": "Artist Name"
+		}
+	]
+}
