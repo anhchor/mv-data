@@ -1,16 +1,16 @@
 {
 	"game": [
 		{
-			"gametitle": "Destiny 2",
-			"gamePlayDate": "Dec. 2020",
-			"gameImage": "/img/2021/01/destiny_cut-scene.jpg",
-			"gameDesc": "I am spending a lot of time playing Destiny 2, which is addictive because it allows me to satisfy my desire to Acquire More Things."
-		},
-		{
 			"gametitle": "Hades",
-			"gamePlayDate": "Sep. 2020",
+			"gamePlayDate": "Sep 2020",
 			"gameImage": "/img/2020/10/hades_ss_asphodel.jpg",
 			"gameDesc": "Hades is a good game."
+		},
+		{
+			"gametitle": "Destiny 2",
+			"gamePlayDate": "Dec 2020",
+			"gameImage": "/img/2021/01/destiny_cut-scene.jpg",
+			"gameDesc": "I am spending a lot of time playing Destiny 2, which is addictive because it allows me to satisfy my desire to Acquire More Things."
 		}
 	],
 	"music": [
