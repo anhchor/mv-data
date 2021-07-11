@@ -31,6 +31,21 @@
 	],
 	"mediaMonth": [
 		{
+			"mediaMonthTitle": "Ongoing",
+			"mediaItem": [
+				{
+					"mediaTitle": "Destiny 2",
+					"mediaCategory": "Game",
+					"mediaDesc": "i don't want to talk about it"
+				},
+				{
+					"mediaTitle": "Dishonored 2",
+					"mediaCategory": "Game",
+					"mediaDesc": "slowly making my way through this when I'm not too busy playing Destiny."
+				}
+			]
+		},
+		{
 			"mediaMonthTitle": "July 2021",
 			"mediaItem": [
 				{
